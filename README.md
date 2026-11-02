@@ -48,7 +48,6 @@ Also passionate about video editing, motion graphics, and UI/UX design.
   <img src="https://api.iconify.design/simple-icons/adobepremierepro.svg?color=%239999FF" width="48" height="48" alt="Premiere Pro" />
   <img src="https://api.iconify.design/simple-icons/davinciresolve.svg?color=%23FFFFFF" width="48" height="48" alt="DaVinci Resolve" />
   <img src="https://api.iconify.design/simple-icons/canva.svg?color=%2300C4CC" width="48" height="48" alt="Canva" />
-  <img src="https://api.iconify.design/simple-icons/figma.svg?color=%23F24E1E" width="48" height="48" alt="Figma" />
   <img src="https://api.iconify.design/arcticons/alight-motion.svg?color=%2343CBFF" width="48" height="48" alt="Alight Motion" />
 </p>
 
