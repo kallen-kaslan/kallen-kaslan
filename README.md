@@ -46,7 +46,6 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 
 <!-- CREATIVE TOOLS -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/capcut/default.svg" width="64" height="64" alt="CapCut" />
   <img src="https://api.iconify.design/simple-icons/adobeaftereffects.svg?width=64&amp;height=64" width="64" height="64" alt="After Effects" />
   <img src="https://api.iconify.design/simple-icons/adobepremierepro.svg?width=64&amp;height=64" width="64" height="64" alt="Premiere Pro" />
   <img src="https://api.iconify.design/simple-icons/davinciresolve.svg?width=64&amp;height=64" width="64" height="64" alt="DaVinci Resolve" />
