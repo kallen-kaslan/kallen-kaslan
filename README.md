@@ -1,76 +1,82 @@
-<!-- <a href="https://github.com/janfdev">
-  <img src="https://www.gitskins.com/api/section/hero?username=janfdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-hero-5&mode=dark" width="100%" alt="janfdev animated terminal profile" />
+<!-- <a href="https://github.com/kallen-kaslan">
+  <img src="https://www.gitskins.com/api/section/hero?username=kallen-kaslan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-hero-5&mode=dark" width="100%" alt="kallen-kaslan animated terminal profile" />
 </a>
 -->
 
-
 <div align="center">
-  <h1>Rizqi Noor Fauzan</h1>
+  <h1>Muhammad Sahid Wahyudi</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=31D7FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Full-Stack+Developer;" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=31D7FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Informatics+Engineering;" alt="Animated introduction" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rizqinoorfauzan">
+  <a href="https://www.linkedin.com/in/muhammad-sahid-wahyudi-151a762b2/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:rizqinoorf@gmail.com">
+  <a href="mailto:muhammad.sahid.wahyudi05@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://discord.com/users/zann0344">
+  <a href="https://discord.com/users/kallen-kaslan">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://dly.to/mvLgPt77gtj">
+  <a href="https://daily.dev/kallenkaslana">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
 </div>
 
 <br />
 
+ 
 <p align="center">
-Software engineer building scalable web platforms, distributed backends, and security tooling for autonomous agent runtimes.<br>
-Focused on end-to-end type safety, clean architecture, and deterministic engineering.
+An Informatics Engineering student who enjoys exploring web development, creative design, and digital media.<br>
+Currently learning web technologies through hands-on projects and AI-assisted development (vibe coding).<br>
+Also passionate about video editing, motion graphics, and UI/UX design.
 </p>
 
 ###
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,express,postgres" height="54" alt="Core Tech Stack Part 1" />
-  </a>
+  <!-- Development -->
+  <img src="https://skillicons.dev/icons?i=react,laravel,php,javascript,tailwind,html,css,postgres,docker,vscode,git" height="48" alt="Development Tools" />
+
   <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,redis,docker,linux,git,postman,jest,vscode" height="54" alt="Core Tech Stack Part 2" />
-  </a>
+
+  <!-- Creative Tools -->
+  <img src="https://cdn.simpleicons.org/capcut/white" height="40" alt="CapCut" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="After Effects" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="Premiere Pro" />
+  <img src="https://cdn.simpleicons.org/davinciresolve/white" height="40" alt="DaVinci Resolve" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
 </div>
 
 ###
 
-<a href="https://github.com/janfdev">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=janfdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="janfdev animated contribution jet" />
+<a href="https://github.com/kallen-kaslan">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kallen-kaslan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="kallen-kaslan animated contribution jet" />
 </a>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5&order=3" height="300" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=kallen-kaslan&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5&order=3" height="300" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janfdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janfdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kallen-kaslan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kallen-kaslan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" /> 
+<!-- <img src="https://raw.githubusercontent.com/kallen-kaslan/kallen-kaslan/output/snake.svg" alt="Snake animation" /> 
 -->
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=janfdev.janfdev&" alt="Visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kallen-kaslan.kallen-kaslan&" alt="Visitor badge" />
 </div>
