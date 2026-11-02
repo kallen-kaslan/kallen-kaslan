@@ -42,13 +42,17 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 
   <br />
 
-  <!-- Creative Tools -->
-  <img src="https://cdn.simpleicons.org/capcut/white" height="40" alt="CapCut" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="After Effects" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="Premiere Pro" />
-  <img src="https://cdn.simpleicons.org/davinciresolve/white" height="40" alt="DaVinci Resolve" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
+
+<!-- CREATIVE TOOLS -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/capcut.svg" height="44" alt="CapCut" />
+  <img src="https://api.iconify.design/simple-icons/adobeaftereffects.svg?color=%239999FF" height="44" alt="Adobe After Effects" />
+  <img src="https://api.iconify.design/simple-icons/adobepremierepro.svg?color=%239999FF" height="44" alt="Adobe Premiere Pro" />
+  <img src="https://api.iconify.design/simple-icons/davinciresolve.svg?color=%23FFFFFF" height="44" alt="DaVinci Resolve" />
+  <img src="https://api.iconify.design/simple-icons/canva.svg?color=%2300C4CC" height="44" alt="Canva" />
+  <img src="https://api.iconify.design/simple-icons/figma.svg?color=%23F24E1E" height="44" alt="Figma" />
+  <img src="https://api.iconify.design/arcticons/alight-motion.svg?color=%2343CBFF" height="44" alt="Alight Motion" />
+</p>
 </div>
 
 ###
@@ -67,8 +71,22 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kallen-kaslan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kallen-kaslan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph" />
+
+<!-- GITHUB STATS -->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&include_all_commits=true&theme=shades-of-purple&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&langs_count=8&theme=shades-of-purple&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </div>
+
 
 ###
 
