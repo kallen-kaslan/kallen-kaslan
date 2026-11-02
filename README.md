@@ -38,7 +38,7 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 
 <div align="center">
   <!-- Development -->
-  <img src="https://skillicons.dev/icons?i=react,laravel,php,javascript,tailwind,html,css,postgres,docker,vscode,git" height="48" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,php,javascript,tailwind,html,css,postgres,docker,vscode,git,figma" height="48" alt="Development Tools" />
 
   <br />
 
