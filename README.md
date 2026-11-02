@@ -68,25 +68,10 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kallen-kaslan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-
-<!-- GITHUB STATS -->
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&include_all_commits=true&theme=shades-of-purple&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&langs_count=8&theme=shades-of-purple&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=janfdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janfdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
-
 
 ###
 
