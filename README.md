@@ -43,14 +43,16 @@ Also passionate about video editing, motion graphics, and UI/UX design.
   <br />
 
 
+
 <!-- CREATIVE TOOLS -->
 <p align="center">
-  <img src="https://api.iconify.design/simple-icons/adobeaftereffects.svg?color=%239999FF" height="44" alt="Adobe After Effects" />
-  <img src="https://api.iconify.design/simple-icons/adobepremierepro.svg?color=%239999FF" height="44" alt="Adobe Premiere Pro" />
-  <img src="https://api.iconify.design/simple-icons/davinciresolve.svg?color=%23FFFFFF" height="44" alt="DaVinci Resolve" />
-  <img src="https://api.iconify.design/simple-icons/canva.svg?color=%2300C4CC" height="44" alt="Canva" />
-  <img src="https://api.iconify.design/simple-icons/figma.svg?color=%23F24E1E" height="44" alt="Figma" />
-  <img src="https://api.iconify.design/arcticons/alight-motion.svg?color=%2343CBFF" height="44" alt="Alight Motion" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/capcut/default.svg" width="64" height="64" alt="CapCut" />
+  <img src="https://api.iconify.design/simple-icons/adobeaftereffects.svg?width=64&amp;height=64" width="64" height="64" alt="After Effects" />
+  <img src="https://api.iconify.design/simple-icons/adobepremierepro.svg?width=64&amp;height=64" width="64" height="64" alt="Premiere Pro" />
+  <img src="https://api.iconify.design/simple-icons/davinciresolve.svg?width=64&amp;height=64" width="64" height="64" alt="DaVinci Resolve" />
+  <img src="https://api.iconify.design/simple-icons/canva.svg?width=64&amp;height=64" width="64" height="64" alt="Canva" />
+  <img src="https://api.iconify.design/simple-icons/figma.svg?width=64&amp;height=64" width="64" height="64" alt="Figma" />
+  <img src="https://api.iconify.design/arcticons/alight-motion.svg?width=64&amp;height=64" width="64" height="64" alt="Alight Motion" />
 </p>
 </div>
 
