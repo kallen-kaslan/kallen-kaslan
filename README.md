@@ -45,7 +45,6 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 
 <!-- CREATIVE TOOLS -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/capcut.svg" height="44" alt="CapCut" />
   <img src="https://api.iconify.design/simple-icons/adobeaftereffects.svg?color=%239999FF" height="44" alt="Adobe After Effects" />
   <img src="https://api.iconify.design/simple-icons/adobepremierepro.svg?color=%239999FF" height="44" alt="Adobe Premiere Pro" />
   <img src="https://api.iconify.design/simple-icons/davinciresolve.svg?color=%23FFFFFF" height="44" alt="DaVinci Resolve" />
