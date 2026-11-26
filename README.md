@@ -55,6 +55,3 @@ A visual representation of my GitHub contributions through a daily calendar and 
 
 <p align="center"><a href="https://kallen-kaslan.github.io/kallen-kaslan/"><strong>Launch Interactive Experience ↗</strong></a></p>
 
-<p align="center"><sub>Hover or tap · Create ripples · Morph between scenes · Change the environment</sub></p>
-
-<p align="center"><sub>Always in development.</sub></p>
