@@ -55,9 +55,9 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 
 ###
 
-<a href="https://github.com/kallen-kaslan">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=kallen-kaslan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="kallen-kaslan animated contribution jet" />
-</a>
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Animated Kallen Hero"/>
+</div>
 
 ###
 
