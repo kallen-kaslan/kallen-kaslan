@@ -10,7 +10,7 @@
   <a href="https://daily.dev/kallenkaslana"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/still/social/dailydev-light.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/still/social/dailydev.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/dailydev-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="./assets/social/dailydev.svg" /><img src="./assets/social/dailydev.svg" height="32" alt="Daily.dev" /></picture></a>
 </p>
 
-<p align="center"><sub>Discord: kallen-kaslan</sub> · <a href="https://kallen-kaslan.github.io/kallen-kaslan/">Explore Creative Lab ↗</a> · <a href="./README-accessible.md">Motion-free profile</a></p>
+<p align="center"> · <a href="https://kallen-kaslan.github.io/kallen-kaslan/">Explore Creative Lab ↗</a> · <a href="./README-accessible.md">Motion-free profile</a></p>
 
 <!-- 01 / Introduction -->
 
