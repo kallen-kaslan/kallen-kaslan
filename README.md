@@ -1,13 +1,9 @@
-<!-- <a href="https://github.com/kallen-kaslan">
-  <img src="https://www.gitskins.com/api/section/hero?username=kallen-kaslan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-hero-5&mode=dark" width="100%" alt="kallen-kaslan animated terminal profile" />
-</a>
--->
-
 <div align="center">
-  <h1>Muhammad Sahid Wahyudi</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=31D7FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Informatics+Engineering;" alt="Animated introduction" />
-  </a>
+  <img
+    src="./assets/hero-muhammad-sahid-dark.svg"
+    width="100%"
+    alt="Muhammad Sahid Wahyudi — Code, Design, Motion"
+  />
 </div>
 
 <div align="center">
@@ -54,10 +50,6 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 </div>
 
 ###
-
-<div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Animated Kallen Hero"/>
-</div>
 
 ###
 
