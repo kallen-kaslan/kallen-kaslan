@@ -104,8 +104,15 @@ def render(cal, demo=False):
 </g><rect x=".5" y=".5" width="959" height="325" rx="12" fill="none" stroke="#637197" stroke-opacity=".55"/>
 </svg>'''
 
+def city_payload(cal, login, demo=False):
+    days = sorted(({'date': d['date'], 'count': d['contributionCount']}
+                   for w in cal['weeks'] for d in w['contributionDays']), key=lambda d:d['date'])
+    if len(days) < 225 or len({d['date'] for d in days}) != len(days):
+        raise ValueError('Expected at least 225 unique calendar days')
+    return {'schema': 1, 'login': login, 'sample': demo, 'days': days[-225:]}
+
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--login',default=os.environ.get('GITHUB_REPOSITORY_OWNER','kallen-kaslan'));p.add_argument('--output',default='assets/contribution-signal.svg');p.add_argument('--fixture',help='Local sample calendar JSON (labels output as sample)');a=p.parse_args()
+    p=argparse.ArgumentParser();p.add_argument('--login',default=os.environ.get('GITHUB_REPOSITORY_OWNER','kallen-kaslan'));p.add_argument('--output',default='assets/contribution-signal.svg');p.add_argument('--city-output', default='assets/contribution-city.json');p.add_argument('--fixture',help='Local sample calendar JSON (labels output as sample)');a=p.parse_args()
     data=json.loads(pathlib.Path(a.fixture).read_text()) if a.fixture else fetch(a.login)
-    svg=render(data,demo=bool(a.fixture));target=pathlib.Path(a.output);target.parent.mkdir(parents=True,exist_ok=True);target.write_text(svg,encoding='utf-8');print(f'Wrote {target} ({len(svg.encode()):,} bytes)')
+    svg=render(data,demo=bool(a.fixture)); payload=city_payload(data,a.login,bool(a.fixture)); target=pathlib.Path(a.output);target.parent.mkdir(parents=True,exist_ok=True);target.write_text(svg,encoding='utf-8');print(f'Wrote {target} ({len(svg.encode()):,} bytes)'); city=pathlib.Path(a.city_output); city.parent.mkdir(parents=True,exist_ok=True); city.write_text(json.dumps(payload,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8'); print(f'Wrote {city} ({len(payload["days"])} days)')
 if __name__=='__main__': main()
