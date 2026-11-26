@@ -91,3 +91,28 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 <br/>
 
 ---
+<!-- ==========================================
+     05. INTERACTIVE CREATIVE LAB
+=========================================== -->
+
+<sub>04 — CREATIVE EXPERIMENT</sub>
+
+<div align="center">
+  <a href="https://kallen-kaslan.github.io/kallen-kaslan/">
+    <img
+      src="./assets/creative-lab-preview.svg"
+      width="100%"
+      alt="MSW Creative Lab — Animated grid, city and wave. Click to launch the interactive experience."
+    />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://kallen-kaslan.github.io/kallen-kaslan/">
+    <strong>Launch Interactive Experience ↗</strong>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Explore the geometry · Interact with the environment · Create your own motion</sub>
+</p>
