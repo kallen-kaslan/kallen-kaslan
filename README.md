@@ -82,10 +82,6 @@ A collection of technologies and creative tools I have worked with across web de
 
 <sub>03 — GITHUB ACTIVITY</sub>
 
-## Activity in motion.
-
-A visual representation of my GitHub contributions, transforming everyday development activity into an evolving digital signal.
-
 <div align="center">
   <img
     src="./assets/contribution-signal.svg"
@@ -94,9 +90,6 @@ A visual representation of my GitHub contributions, transforming everyday develo
   />
 </div>
 
-<p align="center">
-  <sub>Powered by GitHub GraphQL API · Automatically updated daily</sub>
-</p>
 
 <br/>
 
