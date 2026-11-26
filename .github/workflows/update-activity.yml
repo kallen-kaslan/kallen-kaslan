@@ -19,13 +19,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - name: Generate animated contribution SVG
+      - name: Generate contribution SVG and city data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/generate-activity.py --output assets/contribution-signal.svg
+        run: python3 scripts/generate-activity.py --output assets/contribution-signal.svg --city-output assets/contribution-city.json
       - name: Commit only if changed
         run: |
-          git add assets/contribution-signal.svg
+          git add assets/contribution-signal.svg assets/contribution-city.json
           if git diff --cached --quiet; then
             echo 'No changes to contribution data.'
             exit 0
