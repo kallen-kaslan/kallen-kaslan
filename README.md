@@ -1,3 +1,7 @@
+<!-- ==========================================
+     01. HERO IDENTITY
+=========================================== -->
+
 <div align="center">
   <img
     src="./assets/hero-muhammad-sahid-dark.svg"
@@ -6,70 +10,48 @@
   />
 </div>
 
+<br/>
+
+<!-- ==========================================
+     SOCIAL LINKS
+=========================================== -->
+
 <div align="center">
+
   <a href="https://www.linkedin.com/in/muhammad-sahid-wahyudi-151a762b2/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=E6EDF3" height="27" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:muhammad.sahid.wahyudi05@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=E6EDF3" height="27" alt="Email"/>
   </a>
-  <a href="https://discord.com/users/kallen-kaslan">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord%20%7C%20kallen--kaslan-21262D?style=flat-square&logo=discord&logoColor=E6EDF3" height="27" alt="Discord: kallen-kaslan"/>
+  &nbsp;
   <a href="https://daily.dev/kallenkaslana">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+    <img src="https://img.shields.io/badge/Daily.dev-21262D?style=flat-square&logo=dailydotdev&logoColor=E6EDF3" height="27" alt="Daily.dev"/>
   </a>
+
 </div>
 
-<br />
+<br/>
 
- 
-<p align="center">
-An Informatics Engineering student who enjoys exploring web development, creative design, and digital media.<br>
-Currently learning web technologies through hands-on projects and AI-assisted development (vibe coding).<br>
+---
+
+<!-- ==========================================
+     02. PERSONAL INTRODUCTION
+=========================================== -->
+
+<sub>01 — INTRODUCTION</sub>
+
+## About me.
+
+An Informatics Engineering student who enjoys exploring **web development, creative design, and digital media.**
+
+Currently learning web technologies through hands-on projects and AI-assisted development (vibe coding).
+
 Also passionate about video editing, motion graphics, and UI/UX design.
-</p>
 
-###
+<br/>
 
-<div align="center">
-  <!-- Development -->
-  <img src="https://skillicons.dev/icons?i=react,laravel,php,javascript,tailwind,html,css,postgres,docker,vscode,git,figma" height="48" alt="Development Tools" />
-
-  <br />
-
-
-<p align="center">
-  <img src="https://api.iconify.design/simple-icons/adobeaftereffects.svg?color=%239999FF" width="48" height="48" alt="After Effects" />
-  <img src="https://api.iconify.design/simple-icons/adobepremierepro.svg?color=%239999FF" width="48" height="48" alt="Premiere Pro" />
-  <img src="https://api.iconify.design/simple-icons/davinciresolve.svg?color=%23FFFFFF" width="48" height="48" alt="DaVinci Resolve" />
-  <img src="https://api.iconify.design/simple-icons/canva.svg?color=%2300C4CC" width="48" height="48" alt="Canva" />
-  <img src="https://api.iconify.design/arcticons/alight-motion.svg?color=%2343CBFF" width="48" height="48" alt="Alight Motion" />
-</p>
-
-</div>
-
-###
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kallen-kaslan&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5&order=3" height="300" alt="streak graph" />
-</div>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janfdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janfdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
-
-###
-
-<!-- <img src="https://raw.githubusercontent.com/kallen-kaslan/kallen-kaslan/output/snake.svg" alt="Snake animation" /> 
--->
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kallen-kaslan.kallen-kaslan&" alt="Visitor badge" />
-</div>
+---
