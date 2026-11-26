@@ -61,9 +61,6 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 
 <sub>02 — CREATIVE TOOLKIT</sub>
 
-## Tools I work with.
-
-A collection of technologies and creative tools I have worked with across web development, digital design, and media production.
 
 <div align="center">
   <img
