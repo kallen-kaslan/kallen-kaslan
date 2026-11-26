@@ -4,7 +4,7 @@
 
 <div align="center">
   <img
-    src="./assets/hero-muhammad-sahid-dark.svg"
+    src="./assets/hero-muhammad-v3-dark.svg"
     width="100%"
     alt="Muhammad Sahid Wahyudi — Code, Design, Motion"
   />
