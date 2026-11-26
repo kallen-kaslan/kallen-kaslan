@@ -51,8 +51,6 @@ A visual representation of my GitHub contributions through a daily calendar and 
 
 <a href="https://kallen-kaslan.github.io/kallen-kaslan/"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/still/creative-lab-preview-optimized-light.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/still/creative-lab-preview-optimized-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/creative-lab-preview-optimized-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="./assets/creative-lab-preview-optimized-dark.svg" /><img src="./assets/creative-lab-preview-optimized-dark.svg" width="100%" alt="Animated preview of procedural grid, city, and wave. Open Creative Lab to interact." /></picture></a>
 
-<p align="center"><a href="https://kallen-kaslan.github.io/kallen-kaslan/"><strong>Launch Interactive Experience ↗</strong></a></p>
-
 <!-- ==========================================
      05. ROOFTOP COMPANIONS
 =========================================== -->
