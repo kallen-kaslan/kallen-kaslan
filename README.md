@@ -1,50 +1,19 @@
-<!-- ==========================================
-     01. HERO IDENTITY
-=========================================== -->
-
+<!-- MSW / LIVING IDENTITY — profile README -->
 <div align="center">
-  <img
-    src="./assets/hero-muhammad-v3-dark.svg"
-    width="100%"
-    alt="Muhammad Sahid Wahyudi — Code, Design, Motion"
-  />
+  <img src="./assets/hero-muhammad-v3-dark.svg" width="100%" alt="Muhammad Sahid Wahyudi — Informatics Engineering student. Code, Design, Motion." />
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-sahid-wahyudi-151a762b2/"><img src="./assets/social/linkedin.svg" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:muhammad.sahid.wahyudi05@gmail.com"><img src="./assets/social/email.svg" height="32" alt="Email" /></a>
+  <img src="./assets/social/discord.svg" height="32" alt="Discord: kallen-kaslan" />
+  <a href="https://daily.dev/kallenkaslana"><img src="./assets/social/dailydev.svg" height="32" alt="Daily.dev" /></a>
+</p>
 
-<!-- ==========================================
-     SOCIAL LINKS
-=========================================== -->
+<p align="center"><sub>Discord: kallen-kaslan</sub> · <a href="https://kallen-kaslan.github.io/kallen-kaslan/">Explore Creative Lab ↗</a></p>
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/muhammad-sahid-wahyudi-151a762b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=E6EDF3" height="27" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:muhammad.sahid.wahyudi05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=E6EDF3" height="27" alt="Email"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Discord%20%7C%20kallen--kaslan-21262D?style=flat-square&logo=discord&logoColor=E6EDF3" height="27" alt="Discord: kallen-kaslan"/>
-  &nbsp;
-  <a href="https://daily.dev/kallenkaslana">
-    <img src="https://img.shields.io/badge/Daily.dev-21262D?style=flat-square&logo=dailydotdev&logoColor=E6EDF3" height="27" alt="Daily.dev"/>
-  </a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ==========================================
-     02. PERSONAL INTRODUCTION
-=========================================== -->
-
-<sub>01 — INTRODUCTION</sub>
-
-## About me.
+<!-- 01 / Introduction -->
+## About me
 
 An Informatics Engineering student who enjoys exploring **web development, creative design, and digital media.**
 
@@ -52,67 +21,39 @@ Currently learning web technologies through hands-on projects and AI-assisted de
 
 Also passionate about video editing, motion graphics, and UI/UX design.
 
-<br/>
+<img src="./assets/identity-signal.svg" width="100%" alt="" />
 
----
-<!-- ==========================================
-     03. CREATIVE TOOLKIT
-=========================================== -->
+<!-- 02 / Toolkit -->
+## Creative toolkit
 
-<sub>02 — CREATIVE TOOLKIT</sub>
+<img src="./assets/creative-toolkit-v2-dark.svg" width="100%" alt="17 tools grouped into web development, development tools, motion and video, and visual design." />
 
+<details>
+<summary>View all 17 tools as text</summary>
 
-<div align="center">
-  <img
-    src="./assets/creative-toolkit-v2-dark.svg"
-    width="100%"
-    alt="React, Laravel, PHP, JavaScript, Tailwind CSS, HTML5, CSS3, PostgreSQL, Docker, Git, VS Code, After Effects, Premiere Pro, DaVinci Resolve, Alight Motion, Figma, Canva"
-  />
-</div>
+- **Web development:** React, Laravel, PHP, JavaScript, Tailwind CSS, HTML5, CSS3.
+- **Development tools:** PostgreSQL, Docker, Git, VS Code.
+- **Motion graphics and video:** After Effects, Premiere Pro, DaVinci Resolve, Alight Motion.
+- **UI/UX and visual design:** Figma, Canva.
 
-<br/>
+</details>
 
----
-<!-- ==========================================
-     04. ACTIVITY IN MOTION
-=========================================== -->
+<!-- 03 / Activity -->
+## Activity in motion
 
-<sub>03 — GITHUB ACTIVITY</sub>
+A visual representation of my GitHub contributions through a daily calendar and weekly activity signal.
 
-<div align="center">
-  <img
-    src="./assets/contribution-signal.svg"
-    width="100%"
-    alt="Animated GitHub contribution calendar and weekly activity visualization"
-  />
-</div>
+<img src="./assets/contribution-signal.svg" width="100%" alt="GitHub contribution calendar and weekly activity chart." />
 
+<sub>Generated using GitHub GraphQL API · Scheduled daily updates</sub>
 
-<br/>
+<!-- 04 / Creative experiment -->
+## Beyond the static
 
----
-<!-- ==========================================
-     05. INTERACTIVE CREATIVE LAB
-=========================================== -->
+<a href="https://kallen-kaslan.github.io/kallen-kaslan/"><img src="./assets/creative-lab-preview.svg" width="100%" alt="Animated preview of procedural grid, city, and wave. Open Creative Lab to interact." /></a>
 
-<sub>04 — CREATIVE EXPERIMENT</sub>
+<p align="center"><a href="https://kallen-kaslan.github.io/kallen-kaslan/"><strong>Launch Interactive Experience ↗</strong></a></p>
 
-<div align="center">
-  <a href="https://kallen-kaslan.github.io/kallen-kaslan/">
-    <img
-      src="./assets/creative-lab-preview.svg"
-      width="100%"
-      alt="MSW Creative Lab — Animated grid, city and wave. Click to launch the interactive experience."
-    />
-  </a>
-</div>
+<p align="center"><sub>Hover or tap · Create ripples · Morph between scenes · Change the environment</sub></p>
 
-<p align="center">
-  <a href="https://kallen-kaslan.github.io/kallen-kaslan/">
-    <strong>Launch Interactive Experience ↗</strong>
-  </a>
-</p>
-
-<p align="center">
-  <sub>Explore the geometry · Interact with the environment · Create your own motion</sub>
-</p>
+<p align="center"><sub>Always in development.</sub></p>
