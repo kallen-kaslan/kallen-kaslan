@@ -22,10 +22,10 @@ jobs:
       - name: Generate contribution SVG and city data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/generate-activity.py --output assets/contribution-signal.svg --city-output assets/contribution-city.json
+        run: python3 scripts/generate-activity.py --output assets/contribution-signal.svg --city-output assets/contribution-city.json --light-output assets/contribution-signal-light.svg
       - name: Commit only if changed
         run: |
-          git add assets/contribution-signal.svg assets/contribution-city.json
+          git add assets/contribution-signal.svg assets/contribution-city.json assets/contribution-signal-light.svg assets/still/contribution-signal.svg assets/still/contribution-signal-light.svg
           if git diff --cached --quiet; then
             echo 'No changes to contribution data.'
             exit 0
