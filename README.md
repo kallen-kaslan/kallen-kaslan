@@ -61,19 +61,10 @@ A visual representation of my GitHub contributions through a daily calendar and 
 
 <div align="center">
 
-  <h3>Thanks for Watching.</h3>
-
-  <p>A little world beyond the code.</p>
-
   <img
     src="./assets/rooftop-companions.gif"
     width="100%"
     alt="Animated rooftop garden with five animal companions playing under a nighttime city skyline."
   />
 
-  <br/>
-
-  <sub>Muhammad Sahid Wahyudi — Always in Infromatics Engineer.</sub>
-
-</div>
 
