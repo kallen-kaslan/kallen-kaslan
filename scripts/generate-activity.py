@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """Generate a self-contained animated contribution SVG from GitHub GraphQL data."""
+import re
+import xml.etree.ElementTree as ET
 import argparse, datetime as dt, html, json, math, os, pathlib, urllib.request
 
 QUERY = '''query($login: String!) {
@@ -104,6 +106,21 @@ def render(cal, demo=False):
 </g><rect x=".5" y=".5" width="959" height="325" rx="12" fill="none" stroke="#637197" stroke-opacity=".55"/>
 </svg>'''
 
+LIGHT_PALETTE = {'#12192b': '#f7f8fd', '#25263f': '#e9eefb', '#6e7ed2': '#bed0f5', '#9c79c9': '#d8c5ef', '#b9ceff': '#5978d2', '#d6e2ff': '#627fd0', '#819cfa': '#4467bf', '#c6aef1': '#7952b7', '#a0a9f1': '#7e93d7', '#273044': '#dce3f2', '#42547e': '#b1c1e7', '#637bb3': '#849bd7', '#9a9bde': '#626ab9', '#c8bcff': '#51419b', '#a7b5d4': '#445579', '#eef0fa': '#202b48', '#bfc9e1': '#465675', '#dce2f4': '#283755', '#aab6d2': '#465675', '#8190b6': '#7785aa', '#c1cbe3': '#465675', '#8291bd': '#7183ac', '#c5cbff': '#627cd1', '#f0edff': '#3d55aa', '#b9c5df': '#445579', '#637197': '#a1afd0'}
+
+def light_svg(svg):
+    return re.sub(r"#[0-9a-fA-F]{6}\b", lambda m: LIGHT_PALETTE.get(m[0].lower(), m[0]), svg)
+
+def still_svg(svg):
+    ET.register_namespace('', 'http://www.w3.org/2000/svg')
+    root = ET.fromstring(svg)
+    for parent in list(root.iter()):
+        for child in list(parent):
+            tag = child.tag.rsplit('}',1)[-1]
+            if tag.startswith('animate') or tag == 'style' or 'motion' in child.get('class','').split():
+                parent.remove(child)
+    return ET.tostring(root, encoding='unicode')
+
 def city_payload(cal, login, demo=False):
     days = sorted(({'date': d['date'], 'count': d['contributionCount']}
                    for w in cal['weeks'] for d in w['contributionDays']), key=lambda d:d['date'])
@@ -112,7 +129,7 @@ def city_payload(cal, login, demo=False):
     return {'schema': 1, 'login': login, 'sample': demo, 'days': days[-225:]}
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--login',default=os.environ.get('GITHUB_REPOSITORY_OWNER','kallen-kaslan'));p.add_argument('--output',default='assets/contribution-signal.svg');p.add_argument('--city-output', default='assets/contribution-city.json');p.add_argument('--fixture',help='Local sample calendar JSON (labels output as sample)');a=p.parse_args()
+    p=argparse.ArgumentParser();p.add_argument('--login',default=os.environ.get('GITHUB_REPOSITORY_OWNER','kallen-kaslan'));p.add_argument('--output',default='assets/contribution-signal.svg');p.add_argument('--light-output',default='assets/contribution-signal-light.svg');p.add_argument('--city-output', default='assets/contribution-city.json');p.add_argument('--fixture',help='Local sample calendar JSON (labels output as sample)');a=p.parse_args()
     data=json.loads(pathlib.Path(a.fixture).read_text()) if a.fixture else fetch(a.login)
-    svg=render(data,demo=bool(a.fixture)); payload=city_payload(data,a.login,bool(a.fixture)); target=pathlib.Path(a.output);target.parent.mkdir(parents=True,exist_ok=True);target.write_text(svg,encoding='utf-8');print(f'Wrote {target} ({len(svg.encode()):,} bytes)'); city=pathlib.Path(a.city_output); city.parent.mkdir(parents=True,exist_ok=True); city.write_text(json.dumps(payload,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8'); print(f'Wrote {city} ({len(payload["days"])} days)')
+    svg=render(data,demo=bool(a.fixture)); payload=city_payload(data,a.login,bool(a.fixture)); target=pathlib.Path(a.output);target.parent.mkdir(parents=True,exist_ok=True);target.write_text(svg,encoding='utf-8');print(f'Wrote {target} ({len(svg.encode()):,} bytes)'); light=pathlib.Path(a.light_output); light.parent.mkdir(parents=True,exist_ok=True); light.write_text(light_svg(svg),encoding='utf-8'); print(f'Wrote {light}'); still_dir=target.parent/'still'; still_dir.mkdir(parents=True,exist_ok=True); (still_dir/target.name).write_text(still_svg(svg),encoding='utf-8'); (still_dir/light.name).write_text(still_svg(light_svg(svg)),encoding='utf-8'); city=pathlib.Path(a.city_output); city.parent.mkdir(parents=True,exist_ok=True); city.write_text(json.dumps(payload,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8'); print(f'Wrote {city} ({len(payload["days"])} days)')
 if __name__=='__main__': main()
