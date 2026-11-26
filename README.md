@@ -46,8 +46,6 @@ A visual representation of my GitHub contributions through a daily calendar and 
 
 <picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/still/contribution-signal-light.svg" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/still/contribution-signal.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/contribution-signal-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-signal.svg" /><img src="./assets/contribution-signal.svg" width="100%" alt="GitHub contribution calendar and weekly activity chart." /></picture>
 
-<sub>Generated using GitHub GraphQL API · Scheduled daily updates</sub>
-
 <!-- 04 / Creative experiment -->
 ## Beyond the static
 
