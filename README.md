@@ -55,3 +55,24 @@ Also passionate about video editing, motion graphics, and UI/UX design.
 <br/>
 
 ---
+<!-- ==========================================
+     03. CREATIVE TOOLKIT
+=========================================== -->
+
+<sub>02 — CREATIVE TOOLKIT</sub>
+
+## Tools I work with.
+
+A collection of technologies and creative tools I have worked with across web development, digital design, and media production.
+
+<div align="center">
+  <img
+    src="./assets/creative-toolkit-dark.svg"
+    width="100%"
+    alt="React, Laravel, PHP, JavaScript, Tailwind CSS, HTML5, CSS3, PostgreSQL, Docker, Git, VS Code, After Effects, Premiere Pro, DaVinci Resolve, Alight Motion, Figma, Canva"
+  />
+</div>
+
+<br/>
+
+---
