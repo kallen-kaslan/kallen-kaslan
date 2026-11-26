@@ -67,7 +67,7 @@ A collection of technologies and creative tools I have worked with across web de
 
 <div align="center">
   <img
-    src="./assets/creative-toolkit-dark.svg"
+    src="./assets/creative-toolkit-v2-dark.svg"
     width="100%"
     alt="React, Laravel, PHP, JavaScript, Tailwind CSS, HTML5, CSS3, PostgreSQL, Docker, Git, VS Code, After Effects, Premiere Pro, DaVinci Resolve, Alight Motion, Figma, Canva"
   />
